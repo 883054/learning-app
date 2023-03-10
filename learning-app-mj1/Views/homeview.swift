@@ -37,7 +37,7 @@ struct homeview: View {
                             
 
                             //test for me
-                            Text("\(moduleee.id)")
+                            Text("\(moduleee.id)").bold()
                             
                         }
                         
